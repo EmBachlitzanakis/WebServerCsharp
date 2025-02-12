@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S5PevaaMypQ=",
+  "dgSpecHash": "M2HSg+IKJOmSx2NuR5sl7nysf17dRWA42aQ0nNkypkM9UTY3xRLzgRYCUxVpfFWXMELcPfLqPpjy3ZQyPke1hw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\embac\\source\\repos\\ConsoleApp1\\WebServer.csproj",
+  "projectFilePath": "C:\\Users\\kbach\\Source\\Repos\\WebServerCsharp\\WerbServer\\WebServer.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.grapecity.com/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }

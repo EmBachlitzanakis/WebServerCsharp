@@ -8,8 +8,13 @@ namespace ConsoleWebServer
     {
         static void Main(string[] args)
         {
-            Server.Start();
-            Console.ReadLine();
+            string[] prefixes = { "http://localhost:8080/", "http://localhost:8000/" };
+            Server.Start(prefixes);
+
+            Console.WriteLine("Server started. Press any key to stop...");
+            Console.ReadKey();
+
+            Server.Stop();
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\kbach\Source\Repos\WebServerCsharp\WerbServer\bin\Debug\net8.0\WebServer.exe
+C:\Users\kbach\Source\Repos\WebServerCsharp\WerbServer\bin\Debug\net8.0\WebServer.deps.json
+C:\Users\kbach\Source\Repos\WebServerCsharp\WerbServer\bin\Debug\net8.0\WebServer.runtimeconfig.json
+C:\Users\kbach\Source\Repos\WebServerCsharp\WerbServer\bin\Debug\net8.0\WebServer.dll
+C:\Users\kbach\Source\Repos\WebServerCsharp\WerbServer\bin\Debug\net8.0\WebServer.pdb
+C:\Users\kbach\Source\Repos\WebServerCsharp\WerbServer\obj\Debug\net8.0\WebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbach\Source\Repos\WebServerCsharp\WerbServer\obj\Debug\net8.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\kbach\Source\Repos\WebServerCsharp\WerbServer\obj\Debug\net8.0\WebServer.AssemblyInfo.cs
+C:\Users\kbach\Source\Repos\WebServerCsharp\WerbServer\obj\Debug\net8.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\kbach\Source\Repos\WebServerCsharp\WerbServer\obj\Debug\net8.0\WebServer.sourcelink.json
+C:\Users\kbach\Source\Repos\WebServerCsharp\WerbServer\obj\Debug\net8.0\WebServer.dll
+C:\Users\kbach\Source\Repos\WebServerCsharp\WerbServer\obj\Debug\net8.0\refint\WebServer.dll
+C:\Users\kbach\Source\Repos\WebServerCsharp\WerbServer\obj\Debug\net8.0\WebServer.pdb
+C:\Users\kbach\Source\Repos\WebServerCsharp\WerbServer\obj\Debug\net8.0\WebServer.genruntimeconfig.cache
+C:\Users\kbach\Source\Repos\WebServerCsharp\WerbServer\obj\Debug\net8.0\ref\WebServer.dll
